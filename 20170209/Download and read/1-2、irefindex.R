@@ -1,0 +1,6 @@
+irefdb <- read.table("E:/iRefIndex/All.mitab.01-22-2018.txt", head = TRUE, sep = "\t")
+library(data.table)
+rt <- fread("E:/iRefIndex/All.mitab.01-22-2018.txt")
+str(rt)
+class(rt)
+head(rt)
