@@ -7,8 +7,9 @@ File folders are ordered by time.
 
 Simple practices as follows:
 
-    * Download databases and reading.
+    * [Download databases and reading](https://github.com/Chengshu21/R_practice/blob/master/20170209/Download%20and%20read/Download%20and%20read.ipynb).
     
-    * Get GO annotation.
+    * [Get GO annotation](https://github.com/Chengshu21/R_practice/blob/master/20170209/get%20Go%20annotation/Get%20GO%20annotation.ipynb).
 
-    * Query papers from Pubmed.
+    * [Query papers from Pubmed](https://github.com/Chengshu21/R_practice/blob/master/20170209/query%20papers%20from%20PubMed/Query%20papers%20from%20PubMed.ipynb).
+    
